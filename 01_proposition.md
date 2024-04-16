@@ -1,9 +1,11 @@
 # 🌞 Proposition La Porte de Brandebourg et tour de vélo / soirée 
 
-♾️ Visite et trajet vélo 4h 
-♾️ détente et repas ♾️ ...  
+- ♾️ Visite et trajet vélo 4h 
+- ♾️ détente et repas ♾️ 
 
 ### La Porte de Brandebourg 
+
+![la porte](./images/laporteBrandebourg.png)
 
 🚀 Temps : 1h
 
@@ -49,7 +51,7 @@ L'architecte Carl Gotthard Langhans a conçu ce monument dans un style néoclass
 6. Retour : Alexanderplatz
 7. Détente dans les bars et restaurants locaux
 
-### Détails des étapes
+### 🌀 Détails des étapes 🌀
 
 1. **Départ de la tour de télévision (Fernsehturm) :** Commencez votre journée à vélo à Alexanderplatz, où se trouve la célèbre tour de télévision. Admirez la vue sur la ville depuis la place avant de vous diriger vers la Porte de Brandebourg.
 
@@ -63,9 +65,11 @@ L'architecte Carl Gotthard Langhans a conçu ce monument dans un style néoclass
 
 6. **Retour à Alexanderplatz :** Après avoir exploré la région autour de la Porte de Brandebourg, du Reichstag et du parc Tiergarten, vous pouvez revenir à votre point de départ à Alexanderplatz. Profitez-en pour vous arrêter dans l'un des nombreux cafés ou restaurants pour vous détendre après votre balade à vélo.
 
-### Soirée (quelques idées)
+### 🫒 Soirée (quelques idées) 🫒
 
-Faire un choix 
+🥹 
+
+![jardin du prater](./images/jardinduprater.png)
 
 1. **Berghain / Panorama Bar :** Ce célèbre club berlinois est réputé pour sa musique électronique de qualité et son ambiance unique. Attendez-vous à une sélection musicale variée et à une atmosphère immersive. Notez que l'entrée peut être sélective. 🍅 [Khanate](https://www.berghain.berlin/en/event/77886/)
 
