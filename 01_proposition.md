@@ -1,4 +1,4 @@
-# Proposition La Porte de Brandebourg et tour de vélo / soirée 
+# 🌞 Proposition La Porte de Brandebourg et tour de vélo / soirée 
 
 ♾️ Visite et trajet vélo 4h 
 ♾️ détente et repas ♾️ ...  
@@ -67,14 +67,14 @@ L'architecte Carl Gotthard Langhans a conçu ce monument dans un style néoclass
 
 Faire un choix 
 
-1. **Berghain / Panorama Bar :** Ce célèbre club berlinois est réputé pour sa musique électronique de qualité et son ambiance unique. Attendez-vous à une sélection musicale variée et à une atmosphère immersive. Notez que l'entrée peut être sélective.
+1. **Berghain / Panorama Bar :** Ce célèbre club berlinois est réputé pour sa musique électronique de qualité et son ambiance unique. Attendez-vous à une sélection musicale variée et à une atmosphère immersive. Notez que l'entrée peut être sélective. 🍅 [Khanate](https://www.berghain.berlin/en/event/77886/)
 
-2. **Watergate :** Situé le long de la rivière Spree, le Watergate est un club réputé pour ses soirées animées et ses DJ de renommée internationale. Vous pourrez danser toute la nuit tout en profitant d'une vue magnifique sur la ville depuis sa terrasse.
+2. **Watergate :** Situé le long de la rivière Spree, le Watergate est un club réputé pour ses soirées animées et ses DJ de renommée internationale. Vous pourrez danser toute la nuit tout en profitant d'une vue magnifique sur la ville depuis sa terrasse. 🍅 [watergate](http://water-gate.de/de/club/2024_kw17/akronym.html)
 
 3. **Kater Blau :** Niché sur les rives de la Spree, le Kater Blau offre une ambiance détendue avec plusieurs pistes de danse, des jardins en plein air et une programmation musicale éclectique allant de la house à la techno.
 
-4. **Yaam :** Si vous préférez une ambiance plus décontractée, le Yaam est l'endroit idéal. Ce club en bord de plage propose souvent des concerts en direct mettant en vedette des artistes locaux et internationaux, ainsi qu'une délicieuse cuisine jamaïcaine.
+4. **Yaam :** Si vous préférez une ambiance plus décontractée, le Yaam est l'endroit idéal. Ce club en bord de plage propose souvent des concerts en direct mettant en vedette des artistes locaux et internationaux, ainsi qu'une délicieuse cuisine jamaïcaine. 🍅 [Yaam](https://yaam.de/)
 
 5. **Sisyphos :** Ce club alternatif est réputé pour ses fêtes spontanées et sa programmation musicale variée, allant de la techno à l'indie. Vous y trouverez également des installations artistiques fascinantes et une ambiance communautaire.
 
-6. **Prater Garten :** Si vous recherchez quelque chose de plus tranquille, Prater Garten est l'un des plus anciens jardins de bière de Berlin. Profitez de l'ambiance détendue, sirotez une bière locale et savourez des plats allemands classiques tout en écoutant de la musique live certains soirs.
+6. **Prater Garten :** Si vous recherchez quelque chose de plus tranquille, Prater Garten est l'un des plus anciens jardins de bière de Berlin. Profitez de l'ambiance détendue, sirotez une bière locale et savourez des plats allemands classiques tout en écoutant de la musique live certains soirs. 🍅 [Prater Garten](https://www.pratergarten.de/)
