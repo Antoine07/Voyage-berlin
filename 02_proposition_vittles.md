@@ -79,18 +79,17 @@ Voici un itinéraire à vélo pour visiter l'aéroport de Tempelhof, avec des ar
 
 Parc Tempelhofer Feld 
 
+1. **Mogg & Melzer Delicatessen :** Niché dans une ancienne boulangerie juive, ce restaurant offre une atmosphère unique avec son décor vintage et son menu créatif. Vous pourrez déguster des sandwichs à la viande fumée, des bagels maison et d'autres spécialités juives revisitées avec une touche moderne.
+
+
 1. **Café Restaurant Jolesch :** Ce restaurant autrichien offre une expérience unique avec sa décoration traditionnelle et son ambiance chaleureuse. Vous pourrez déguster des plats autrichiens authentiques, tels que le schnitzel viennois ou le goulasch, dans une atmosphère conviviale.
 
-![Jolesch](https://jolesch.de/en/restaurant/) 🥫
+🥫 [Jolesch](https://jolesch.de/en/restaurant/) 🥫
 
-2. **Henne Alt-Berliner Wirtshaus :** Situé dans le quartier de Kreuzberg, ce restaurant traditionnel berlinois propose des plats typiques de la cuisine allemande, notamment le célèbre poulet frit (Hühnerfrikassee). L'ambiance est rustique et pleine de caractère, parfait pour une expérience authentique.
+1. **Henne Alt-Berliner Wirtshaus :** Situé dans le quartier de Kreuzberg, ce restaurant traditionnel berlinois propose des plats typiques de la cuisine allemande, notamment le célèbre poulet frit (Hühnerfrikassee). L'ambiance est rustique et pleine de caractère, parfait pour une expérience authentique.
 
 [Alt-Berliner Wirtshaus](https://www.facebook.com/DieHenneBerlin/)
 
-![Alt-Berliner plan](./images/resto_altBerliner.png)
-
-
-1. **Mogg & Melzer Delicatessen :** Niché dans une ancienne boulangerie juive, ce restaurant offre une atmosphère unique avec son décor vintage et son menu créatif. Vous pourrez déguster des sandwichs à la viande fumée, des bagels maison et d'autres spécialités juives revisitées avec une touche moderne.
 
 
 
