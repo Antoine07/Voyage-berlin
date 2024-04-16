@@ -77,7 +77,7 @@ Voici un itinéraire à vélo pour visiter l'aéroport de Tempelhof, avec des ar
 
 ## Idées de restaurants durant la balade
 
-Bien sûr ! Voici quelques suggestions de restaurants originaux à proximité de l'aéroport de Tempelhof et du parc Tempelhofer Feld :
+Parc Tempelhofer Feld 
 
 1. **Café Restaurant Jolesch :** Ce restaurant autrichien offre une expérience unique avec sa décoration traditionnelle et son ambiance chaleureuse. Vous pourrez déguster des plats autrichiens authentiques, tels que le schnitzel viennois ou le goulasch, dans une atmosphère conviviale.
 
