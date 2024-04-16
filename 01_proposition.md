@@ -1,6 +1,11 @@
-# JOUR 1
+# Proposition La Porte de Brandebourg et tour de vélo / soirée 
 
-### La Porte de Brandebourg :
+♾️ Visite et trajet vélo 4h 
+♾️ détente et repas ♾️ ...  
+
+### La Porte de Brandebourg 
+
+🚀 Temps : 1h
 
 1. **Histoire :** Construite à la fin du 18e siècle dans le style néoclassique, la Porte de Brandebourg a été commandée par le roi de Prusse, Frédéric-Guillaume II, et conçue par l'architecte Carl Gotthard Langhans. Elle était à l'origine une porte d'entrée de la ville et un symbole de paix.
    
@@ -30,9 +35,11 @@ L'architecte Carl Gotthard Langhans a conçu ce monument dans un style néoclass
    
 2. **Restauration :** Au fil des ans, la Porte de Brandebourg a été restaurée et rénovée pour maintenir sa splendeur historique. Elle est aujourd'hui l'un des monuments les plus photographiés de Berlin.
 
-## Idée d'itinéraire à vélà 
+## Idée d'itinéraire à vélo
 
-### Résumé
+### Résumé de l'itinéraire 
+
+🚀 Temps : 3h
 
 1. Départ : Alexanderplatz
 2. Direction sud le long de l'avenue Unter den Linden
@@ -57,6 +64,8 @@ L'architecte Carl Gotthard Langhans a conçu ce monument dans un style néoclass
 6. **Retour à Alexanderplatz :** Après avoir exploré la région autour de la Porte de Brandebourg, du Reichstag et du parc Tiergarten, vous pouvez revenir à votre point de départ à Alexanderplatz. Profitez-en pour vous arrêter dans l'un des nombreux cafés ou restaurants pour vous détendre après votre balade à vélo.
 
 ### Soirée (quelques idées)
+
+Faire un choix 
 
 1. **Berghain / Panorama Bar :** Ce célèbre club berlinois est réputé pour sa musique électronique de qualité et son ambiance unique. Attendez-vous à une sélection musicale variée et à une atmosphère immersive. Notez que l'entrée peut être sélective.
 
